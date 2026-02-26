@@ -1,4 +1,4 @@
-package com.todo.todolist.domain;
+package com.todo.todolist.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

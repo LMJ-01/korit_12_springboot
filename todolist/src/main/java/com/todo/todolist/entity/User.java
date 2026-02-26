@@ -1,7 +1,6 @@
-package com.todo.todolist.domain;
+package com.todo.todolist.entity;
 
 import jakarta.persistence.*;
-import lombok.Builder;
 import lombok.Data;
 
 import java.util.List;

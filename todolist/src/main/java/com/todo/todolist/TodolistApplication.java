@@ -1,9 +1,9 @@
 package com.todo.todolist;
 
-import com.todo.todolist.domain.Todo;
-import com.todo.todolist.domain.TodoRepository;
-import com.todo.todolist.domain.User;
-import com.todo.todolist.domain.UserRepository;
+import com.todo.todolist.entity.Todo;
+import com.todo.todolist.repository.TodoRepository;
+import com.todo.todolist.entity.User;
+import com.todo.todolist.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
